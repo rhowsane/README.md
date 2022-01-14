@@ -1,5 +1,5 @@
 ### Hi! 
-My name is Rhosane. I'm a Brazilian mechanical engineer passionate about Data Scientist and AI applications. 
+My name is Rhosane. I'm a Brazilian mechanical engineer passionate about Data Science and AI applications. 
 
 - 🔭 Currently searching for a role of Data Scientist🌱
 - 👩🏽‍💻 Techs & Tools: Python, MySQL, Tableau, C, R, Matlab, Shell Linux, ROS.
