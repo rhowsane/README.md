@@ -3,7 +3,7 @@ My name is Rhosane. I'm a Brazilian mechanical engineer passionate about Data Sc
 
 - 🔭 Currently searching for a role in Data teams🌱
 - 👩🏽‍💻 Techs & Tools: Python, MySQL, Tableau, C, R, Matlab, Shell Linux, ROS.
-- 📫 How to reach me: rhosane.santos@ga.ita.br | [LinkedIn](https://www.linkedin.com/in/rhosane-silva-dos-santos/) 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rhosane-silva-dos-santos/) 
 - ⚡ My background:  
                      🇧🇷 Mechanical-Aeronautics Engineering at [ITA](http://www.ita.br/) (2016-2021)  
                      🇫🇷 Engineering Academical exchange at [Arts et Métiers](https://artsetmetiers.fr/en) (2019-2021)  
