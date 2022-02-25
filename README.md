@@ -1,7 +1,7 @@
 ### Hi! 
 My name is Rhosane. I'm a Brazilian mechanical engineer passionate about Data Science and AI applications. 
 
-- 🔭 Currently searching for a role of Data Scientist🌱
+- 🔭 Currently searching for a role in Data teams🌱
 - 👩🏽‍💻 Techs & Tools: Python, MySQL, Tableau, C, R, Matlab, Shell Linux, ROS.
 - 📫 How to reach me: rhosane.santos@ga.ita.br | [LinkedIn](https://www.linkedin.com/in/rhosane-silva-dos-santos/) 
 - ⚡ My background:  
