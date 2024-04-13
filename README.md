@@ -1,12 +1,16 @@
-### Hi! 
-My name is Rhosane. I'm a Brazilian mechanical engineer passionate about Data Science and AI applications. 
+### Rhosane Silva dos Santos
+---
+Data scientist with engineering background interested in Machine Learning, Text mining,
+Statistics, Time series analysis, Deep Learning. 
 
-- 🔭 Currently searching for a role in Data teams
-- 👩🏽‍💻 Techs & Tools: Python, MySQL, Tableau, C, R, Matlab, Shell Linux, ROS.
+- 👩🏽‍💻 Techs & Tools: •Python •Spark • SQL • Git
+• Power BI • R • Shell Linux
+•Pack Microsoft Office
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rhosane-silva-dos-santos/) | 
                       [Kaggle](https://www.kaggle.com/rhosane)
-- 🌱 I started to share some data science ideas here: [Medium](https://medium.com/@rhowsane)                      
-- ⚡ My background:  
+- 🌱 I started to share some data science ideas here: [Medium](https://medium.com/@rhowsane)
+- My background:  
+                     🇫🇷 Master in Data Science and AI at [DSTI](http://www.ita.br/) (2022-2024)  
                      🇧🇷 Mechanical-Aeronautics Engineering at [ITA](http://www.ita.br/) (2016-2021)  
                      🇫🇷 Engineering Academical exchange at [Arts et Métiers](https://artsetmetiers.fr/en) (2019-2021)  
 
