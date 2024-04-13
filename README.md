@@ -6,6 +6,7 @@ Statistics, Time series analysis, Deep Learning.
 - 👩🏽‍💻 Techs & Tools: •Python •Spark • SQL • Git
 • Power BI • R • Shell Linux
 •Pack Microsoft Office
+- ☁️ Cloud: •Azure-Databricks •Notions of AWS
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rhosane-silva-dos-santos/) | 
                       [Kaggle](https://www.kaggle.com/rhosane)
 - 🌱 I started to share some data science ideas here: [Medium](https://medium.com/@rhowsane)
