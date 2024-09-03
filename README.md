@@ -1,7 +1,6 @@
 ### Rhosane Silva dos Santos
 ---
-Data scientist with engineering background interested in Machine Learning, Text mining,
-Statistics, Time series analysis, Deep Learning. 
+Data analyst with engineering background interested in solving problems using Python, SQL and PowerBI. 
 
 - 👩🏽‍💻 Techs & Tools: •Python •Spark • SQL • Git
 • Power BI • R • Shell Linux
