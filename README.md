@@ -6,14 +6,13 @@ Data analyst with engineering background interested in solving problems using Py
 • Power BI • R • Shell Linux
 •Pack Microsoft Office
 - ☁️ Cloud: •Azure-Databricks •Notions of AWS
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rhosane-silva-dos-santos/) | 
-                      [Kaggle](https://www.kaggle.com/rhosane)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rhosane-silva-dos-santos/)
 - 🌱 I started to share some data science ideas here: [Medium](https://medium.com/@rhowsane)
 - My background:  
-                     🇫🇷 Master in Data Science and AI at [DSTI](http://www.ita.br/) (2022-2024)  
+                     🇫🇷 Master in Data Science and AI at [DSTI](https://www.datasciencetech.institute/applied-msc-in-data-science-ai/) (2022-2024)  
                      🇧🇷 Mechanical-Aeronautics Engineering at [ITA](http://www.ita.br/) (2016-2021)  
                      🇫🇷 Engineering Academical exchange at [Arts et Métiers](https://artsetmetiers.fr/en) (2019-2021)  
-
+- My professional portfolio: [portfolio](https://github.com/rhowsane/My-portfolio/blob/main/My%20Portfolio.pdf)
 <!--
  ✨ _special_ ✨ 
 Here are some ideas to get you started:
