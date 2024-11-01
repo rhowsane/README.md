@@ -12,7 +12,7 @@ Data analyst with engineering background interested in solving problems using Py
                      🇫🇷 Master in Data Science and AI at [DSTI](https://www.datasciencetech.institute/applied-msc-in-data-science-ai/) (2022-2024)  
                      🇧🇷 Mechanical-Aeronautics Engineering at [ITA](http://www.ita.br/) (2016-2021)  
                      🇫🇷 Engineering Academical exchange at [Arts et Métiers](https://artsetmetiers.fr/en) (2019-2021)  
-- My professional portfolio: [portfolio](https://github.com/rhowsane/My-portfolio/blob/main/My%20Portfolio.pdf)
+- My professional portfolio: [portfolio](https://rhowsane.github.io/)
 <!--
  ✨ _special_ ✨ 
 Here are some ideas to get you started:
