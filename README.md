@@ -1,6 +1,6 @@
 ### Rhosane Silva dos Santos
 ---
-Data analyst with engineering background interested in solving problems using Python, SQL and PowerBI. 
+Data scientist with engineering background interested in solving problems using Python, SQL and PowerBI. 
 
 - 👩🏽‍💻 Techs & Tools: •Python •Spark • SQL • Git
 • Power BI • R • Shell Linux
