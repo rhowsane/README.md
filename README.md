@@ -3,14 +3,13 @@
 Data scientist with engineering background interested in solving problems using Python, SQL and PowerBI. 
 
 - 👩🏽‍💻 Techs & Tools: •Python •Spark • SQL • Git
-• Power BI • R • Shell Linux
-•Pack Microsoft Office
+• Power BI • R • Linux Shell
 - ☁️ Cloud: •Azure-Databricks •Notions of AWS
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rhosane-silva-dos-santos/)
 - 🌱 I started to share some data science ideas here: [Medium](https://medium.com/@rhowsane)
 - My background:  
                      🇫🇷 Master in Data Science and AI at [DSTI](https://www.datasciencetech.institute/applied-msc-in-data-science-ai/) (2022-2024)  
-                     🇧🇷 Mechanical-Aeronautics Engineering at [ITA](http://www.ita.br/) (2016-2021)  
+                     🇧🇷 Master of Sciences in engineering in Mechanical-Aeronautics at [ITA](http://www.ita.br/) (2016-2021)  
                      🇫🇷 Engineering Academical exchange at [Arts et Métiers](https://artsetmetiers.fr/en) (2019-2021)  
 - My professional portfolio: [portfolio](https://rhowsane.github.io/)
 ## Personal projects
