@@ -25,7 +25,8 @@ Data scientist with engineering background interested in solving problems using 
   **Keywords:** data manipulation, outliers treatement, standardization, clusterization, K-Means, scatterplot, business discussion.
 - **[Book's ratings](https://github.com/rhowsane/viet-goodreads):** worked in group to predict the ratings of a book from the platform Goodreads.  
   **Keywords:** git, one hot encoding, label encoder, Random Forest Regressor, model evaluation, Docker.
-
+- **[Watertable prediction hackthon](https://github.com/rhowsane/Hickathon):** predicted the levels of surface of water in groundwater surface in a classification approach.  
+  **Keywords:** ordinal encoder, lightGBMClassifier, FLAML, feature importance.
 <!--
  ✨ _special_ ✨ 
 Here are some ideas to get you started:
